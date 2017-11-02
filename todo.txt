@@ -1,0 +1,18 @@
+To Do
+=====
+
+Build a twitter app using tdd!
+https://vimeo.com/151390908
+
+$ laravel new tdd-tweeter
+$ cd tdd-tweeter
+$ git init; git add; git commit -m'First commit'
+
+Where to start?
+- create an account
+- post a tweet
+- view another's tweets
+- follow another user
+- view a list of my tweets on my timeline
+
+Begin with "view another's tweets"
