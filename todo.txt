@@ -16,3 +16,4 @@ Where to start?
 - view a list of my tweets on my timeline
 
 Begin with "view another's tweets"
+php artisan make:test ViewingAnotherUsersTweets
