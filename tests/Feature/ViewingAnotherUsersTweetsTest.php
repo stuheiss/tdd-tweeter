@@ -8,7 +8,7 @@ use Tests\TestCase;
 use Illuminate\Foundation\Testing\RefreshDatabase;
 use Illuminate\Foundation\Testing\DatabaseMigrations;
 
-class ViewingAnotherUsersTweets extends TestCase
+class ViewingAnotherUsersTweetsTest extends TestCase
 {
     use DatabaseMigrations;
     /**
